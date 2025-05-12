@@ -22,6 +22,12 @@ class Class1 {
 class main {
 }
 
+class Whatever {
+	public Whatever() {
+
+	}
+}
+
 public class Main {
 
 	static int a;
