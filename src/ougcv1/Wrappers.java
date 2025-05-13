@@ -18,6 +18,6 @@ public class Wrappers {
 		// byte b = 128;
 		byte[] bytes = new byte[2];
 		bytes[0] = 127;
-		bytes[0] = 128;
+		// bytes[0] = 128;
 	}
 }

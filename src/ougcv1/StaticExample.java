@@ -13,9 +13,9 @@ public class StaticExample {
 
 		System.out.println(i);
 
-		i /= 0;
+		// i /= 0;
 
-		i++;
+		// i++;
 	}
 
 	public static void main(String[] args) {
